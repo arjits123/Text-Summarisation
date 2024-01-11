@@ -1,0 +1,5 @@
+
+1. Create a template.py file:
+- write the entire project structure
+- folder structure and file structure in this file
+
